@@ -1,1 +1,1 @@
-# Face-News-Detection-Machine-Learning
+# Fake-News-Detection-Machine-Learning
